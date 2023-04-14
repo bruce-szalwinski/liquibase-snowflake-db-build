@@ -13,7 +13,7 @@
     <liquibase.core.version>3.8.5</liquibase.core.version>
     <liquibase.snowflake.version>2.0.0</liquibase.snowflake.version>
     <db.props.version>1.0.0</db.props.version>
-    <snowflake.jdbc.version>3.11.1</snowflake.jdbc.version>
+    <snowflake.jdbc.version>3.13.29</snowflake.jdbc.version>
   </properties>
 
   <dependencies>
